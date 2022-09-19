@@ -103,6 +103,16 @@
 </p>
 <img src="https://activity-graph.herokuapp.com/graph?username=Rahul7874&theme=xcode" height ="307"/>                                                                                                                                                 
                                                                                                                                                    
-                                                                                                                                                   
+ <h2><i>Top Repositories</i></h2>
+
+
+<p>
+    <a href="https://github.com/faizanghani2222/Jio-Mart-Clone-">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=faizanghani2222&repo=Jio-Mart-Clone-&locale=en&border_radius=0&theme=dark" alt="faizanghani2222" />
+    </a>
+    <a href="https://github.com/itsme-brijeshrai/InstaCart-Clone">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=itsme-brijeshrai&repo=InstaCart-Clone&locale=en&border_radius=0&theme=dark" alt="itsme-brijeshrai" />
+    </a>     
+    </p>
                                                                                                                                                    
                                                                                                                                                    

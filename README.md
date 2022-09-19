@@ -95,3 +95,14 @@
 
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
+  <h2><i>My GitHub Stats</i></h2>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rahul7874&label=Profile%20views&color=0e75b6&style=flat" alt="rahul7874" /> </p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahul7874&show_icons=true&locale=en&theme=dark" alt="rahul7874"  height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7874&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rahul7874" height="139" />
+</p>
+<img src="https://activity-graph.herokuapp.com/graph?username=Rahul7874&theme=xcode" height ="307"/>                                                                                                                                                 
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   
+                                                                                                                                                   

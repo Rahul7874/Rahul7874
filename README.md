@@ -86,7 +86,7 @@
     <a href="https://rahul7874.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rahul7874.github.io/" />
     </a>
-    <a title="rp158835@gmail.com" href="www.gmail.com">
+    <a title="rp158835@Gmail.com" href="www.Gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rp158835@gmail.com" />
     </a>
 </p>

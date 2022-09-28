@@ -9,7 +9,9 @@
 
 
 <!----------------------------------- About Section ------------------------------------>
-
+<h3>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+</h3>
 <h3>
     <i>- I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in Software Development and making organisations successful..</i>
 </h3>

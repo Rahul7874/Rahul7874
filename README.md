@@ -11,7 +11,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Mern Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I have a clear, logical mind with a practical approach to problem-solving and a drive to see things through to completion. I have work experience in multiple project and colne project with team collaboration. I am eager to learn, I enjoy overcoming challenges, and I have a genuine interest in Software Development and making organisations successful..</i>
 </h3>
 <h3>
     <i>-Currently looking for an opportunity to enhance my skills</i>
@@ -86,7 +86,7 @@
     <a href="https://rahul7874.github.io/">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://rahul7874.github.io/" />
     </a>
-    <a title="rp158835@Gmail.com" href="https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox">
+    <a title="rp158835@gmail.com" href="rp158835@gmail.com">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="rp158835@gmail.com" />
     </a>
 </p>

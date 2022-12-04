@@ -103,7 +103,7 @@
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=rahul7874&show_icons=true&locale=en&theme=dark" alt="rahul7874"  height="139" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahul7874&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="rahul7874" height="139" />
 </p>
-<img src="https://activity-graph.herokuapp.com/graph?username=Rahul7874&theme=xcode" height ="307"/>                                                                                                                                                 
+                                                                                                                                                 
                                                                                                                                                    
  <h2><i>Top Repositories</i></h2>
 

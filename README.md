@@ -9,9 +9,7 @@
 
 
 <!----------------------------------- About Section ------------------------------------>
-<h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
-</h3>
+
 <h3>
     <i>- Aspiring full-stack developer with a specialization in MERN stack. Possesses the ability to understand business requirements to translate them into technical requirements. A quick learner, eager to work in a challenging environment, and proactive in time management.</i>
 </h3>
@@ -19,9 +17,7 @@
     <i>-Currently looking for an opportunity to enhance my skills</i>
 </h3>
 
-<h3>
-    <i>-Always a Learner</i>
-</h3>
+
 <br>
 
 

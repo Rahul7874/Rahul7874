@@ -17,6 +17,16 @@
     <i>-Currently looking for an opportunity to enhance my skills</i>
 </h3>
 <img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" width="850" height="300">
+
+- 🌱 I’m currently learning **Full Stack Web Developer**
+ 
+- 📄 My Resume  [Rahul_Pawar_Resume](https://drive.google.com/file/d/1yyZfJqpWnBXijzijc2I1XRjGBUYwVnJV/view?usp=share_link) 
+
+- 👨‍💻 My Portfolio [Rahul7874.github.io](https://rahul7874.github.io/)
+
+- 💬 Ask me about **Anything u Like in coding/programming**
+
+- 📫 How to reach me **rp158835@gmail.com**
 <br>
 
 

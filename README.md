@@ -17,10 +17,10 @@
     <i>-Currently looking for an opportunity to enhance my skills</i>
 </h3>
 
-
+<img src="https://img.freepik.com/free-vector/hand-drawn-web-developers_23-2148819604.jpg?size=626&ext=jpg&ga=GA1.2.1542769401.1658920397" width="850" height="300">
 <br>
 
-
+<img src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif" width="850" height="300">
 
 <!----------------------------------- Profile View Section ------------------------------------>
 
